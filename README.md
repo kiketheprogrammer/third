@@ -1,3 +1,3 @@
 # third
-third attempt at personalising my theme
-i love :coffee :pizza :music
+third attempt at personalising my theme.
+I love :coffee: :pizza:, and :music:.
